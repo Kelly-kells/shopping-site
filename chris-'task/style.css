@@ -1,0 +1,52 @@
+body {
+  background-color: #4d375d !important;
+  color: #e9b0df !important ;
+ 
+  margin: 50px;
+}
+.nav-item {
+    padding: 0 18px;
+    
+    
+  }
+  .nav-link{
+      font-size: 1.2rem;
+    
+      color: #c1a1d3;
+  }
+  .navbar-brand{
+      
+      color: pink !important;
+  }
+  
+
+.img{
+    width: 470px;
+    padding: 30px;
+    margin-left: 50px;
+} 
+   
+
+
+h1{
+    font-family: 'Potta One', cursive;
+    
+    font-weight: bold;
+    line-height: 2;
+}
+p{
+    font-family: "ubuntu";
+    
+}
+.botton{
+   background-color:#fca3cc;
+   font-style: bold;
+   margin-left: 20px;
+   border-radius: 12px;
+}
+.icons{
+    margin-top: 70px;
+    color: white !important;
+}
+
+
